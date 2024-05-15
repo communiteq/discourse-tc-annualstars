@@ -1,0 +1,17 @@
+{
+  "name": "Annual Stars",
+  "component": true,
+  "license_url": null,
+  "about_url": null,
+  "authors": "Communiteq",
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "annualstar": "assets/annual_star.gif"
+  },
+  "color_schemes": {
+  },
+  "modifiers": {
+  }
+}
